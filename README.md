@@ -1,1 +1,1 @@
-# Deep-learning-Nano-Degree-Udacity-Projects
+# Deep-learning-ND
